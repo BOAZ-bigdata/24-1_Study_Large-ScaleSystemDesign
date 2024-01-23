@@ -39,5 +39,15 @@
     </a>
     <br />
     </td>
+    <td align="center">
+    <a href="https://github.com/yubin21">
+      <img src="https://avatars.githubusercontent.com/u/80163835?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>김유빈</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

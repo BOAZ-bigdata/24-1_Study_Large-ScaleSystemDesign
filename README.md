@@ -39,5 +39,15 @@
     </a>
     <br />
     </td>
+    <td align="center">
+    <a href="https://github.com/shinsj4653">
+      <img src="https://avatars.githubusercontent.com/shinsj4653?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>신성준</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

@@ -40,14 +40,24 @@
     <br />
     </td>
     <td align="center">
+    <a href="https://github.com/NoMyeongEun">
+      <img src="https://avatars.githubusercontent.com/u/90135669?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>노명은</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
     <a href="https://github.com/yth01">
       <img src="https://avatars.githubusercontent.com/u/62024470?v=4" width="100px;" alt=""/>
       <br />
       <sub>
         <b>유태혁</b>
       </sub>
-    </a>
-    <br />
-    </td>
+      </a>
+      <br />
+      </td>
   </tr>
 </table>

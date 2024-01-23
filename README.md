@@ -46,8 +46,8 @@
       <sub>
         <b>노명은</b>
       </sub>
-    </a>
-    <br />
+      </a>
+      <br />
     </td>
     <td align="center">
     <a href="https://github.com/yth01">
@@ -55,6 +55,15 @@
       <br />
       <sub>
         <b>유태혁</b>
+      </sub>
+      </a>
+      <br />
+      </td>
+    <a href="https://github.com/yubin21">
+      <img src="https://avatars.githubusercontent.com/u/80163835?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>김유빈</b>
       </sub>
       </a>
       <br />

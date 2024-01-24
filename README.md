@@ -80,5 +80,15 @@
     </a>
     <br />
     </td>
+   <td align="center">
+    <a href="https://github.com/YEERRIn">
+      <img src="https://avatars.githubusercontent.com/u/109721289?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>신예린</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

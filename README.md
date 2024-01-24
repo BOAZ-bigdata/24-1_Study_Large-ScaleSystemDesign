@@ -91,6 +91,16 @@
     <br />
     </td>
     <td align="center">
+    <a href="https://github.com/kyounghunJang">
+      <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>장경훈</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
     <a href="https://github.com/eu2525">
       <img src="https://avatars.githubusercontent.com/u/49024115?v=4" width="100px;" alt=""/>
       <br />

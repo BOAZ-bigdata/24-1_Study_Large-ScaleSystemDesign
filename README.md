@@ -110,5 +110,15 @@
     </a>
     <br />
     </td>
+    <td align="center">
+    <a href="https://github.com/StatisticsFox">
+      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>최지혁</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

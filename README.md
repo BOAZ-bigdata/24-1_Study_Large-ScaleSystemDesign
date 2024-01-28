@@ -120,5 +120,15 @@
     </a>
     <br />
     </td>
+    <td align="center">
+    <a href="https://github.com/tree-jhk">
+      <img src="https://avatars.githubusercontent.com/u/97151660?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>최지혁</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

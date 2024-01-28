@@ -125,7 +125,7 @@
       <img src="https://avatars.githubusercontent.com/u/97151660?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>최지혁</b>
+        <b>권준혁</b>
       </sub>
     </a>
     <br />

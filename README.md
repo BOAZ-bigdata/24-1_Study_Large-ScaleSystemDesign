@@ -59,6 +59,7 @@
       </a>
       <br />
       </td>
+    <td align="center">
     <a href="https://github.com/yubin21">
       <img src="https://avatars.githubusercontent.com/u/80163835?v=4" width="100px;" alt=""/>
       <br />
@@ -68,5 +69,66 @@
       </a>
       <br />
       </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/shinsj4653">
+      <img src="https://avatars.githubusercontent.com/shinsj4653?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>신성준</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+   <td align="center">
+    <a href="https://github.com/YEERRIn">
+      <img src="https://avatars.githubusercontent.com/u/109721289?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>신예린</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/kyounghunJang">
+      <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>장경훈</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/eu2525">
+      <img src="https://avatars.githubusercontent.com/u/49024115?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>한상진</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/StatisticsFox">
+      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>최지혁</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/tree-jhk">
+      <img src="https://avatars.githubusercontent.com/u/97151660?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>권준혁</b>
+      </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>

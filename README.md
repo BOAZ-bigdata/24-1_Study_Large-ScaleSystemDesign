@@ -40,6 +40,35 @@
     <br />
     </td>
     <td align="center">
+    <a href="https://github.com/NoMyeongEun">
+      <img src="https://avatars.githubusercontent.com/u/90135669?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>노명은</b>
+      </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/yth01">
+      <img src="https://avatars.githubusercontent.com/u/62024470?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>유태혁</b>
+      </sub>
+      </a>
+      <br />
+      </td>
+    <a href="https://github.com/yubin21">
+      <img src="https://avatars.githubusercontent.com/u/80163835?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>김유빈</b>
+      </sub>
+      </a>
+      <br />
+      </td>
+    <td align="center">
     <a href="https://github.com/shinsj4653">
       <img src="https://avatars.githubusercontent.com/shinsj4653?v=4" width="100px;" alt=""/>
       <br />

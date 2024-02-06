@@ -66,9 +66,8 @@
       <sub>
         <b>김유빈</b>
       </sub>
-      </a>
-      <br />
-      </td>
+    </a>
+    <br />
     </td>
     <td align="center">
     <a href="https://github.com/shinsj4653">
@@ -80,7 +79,7 @@
     </a>
     <br />
     </td>
-   <td align="center">
+    <td align="center">
     <a href="https://github.com/YEERRIn">
       <img src="https://avatars.githubusercontent.com/u/109721289?v=4" width="100px;" alt=""/>
       <br />
